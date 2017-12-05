@@ -8,6 +8,7 @@ Unofficial List of EDI Github Resources
 - [Visual Studio Code](https://github.com/Silvenga/vscode-edi-x12-support) - A Visual Studio Code extension aimed at providing basic support for the EDI format.
 
 ## Libraries
+- [Apache NiFi](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 - [EdiEngine](https://github.com/olmelabs/EdiEngine) Simple .NET EDI Reader, Writer and Validator. Read, Write and Validate X12 EDI files with simple EDI Parser written on C#. 
 - [EDI.Net](https://github.com/indice-co/EDI.Net) EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
 - [edifact](https://github.com/php-edifact/edifact) - (PHP) Tools to process EDI messages in UN/EDIFACT format
