@@ -5,7 +5,7 @@ Unofficial List of EDI Github Resources
 
 - [Sublime](https://github.com/michaelachrisco/sublime-834-syntax) - Sublime syntax highlighter for the EDI x12 834 file.
 - [Vim](https://github.com/vim-scripts/x12-syntax) - A simple syntax highlighter for EDI X12 files. Currently only Healthcare 270/271s are tested.
-- [Visual Studio Code](https://github.com/Silvenga/vscode-edi-x12-support) - https://github.com/Silvenga/vscode-edi-x12-support
+- [Visual Studio Code](https://github.com/Silvenga/vscode-edi-x12-support) - A Visual Studio Code extension aimed at providing basic support for the EDI format.
 
 ## Libraries
 - [EdiEngine](https://github.com/olmelabs/EdiEngine) Simple .NET EDI Reader, Writer and Validator. Read, Write and Validate X12 EDI files with simple EDI Parser written on C#. 
