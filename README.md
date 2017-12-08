@@ -24,7 +24,7 @@ Unofficial List of EDI Github Resources
 ## Examples
 - [Mulesoft purchase order walkthrough](https://github.com/mulesoft/mulesoft-docs/blob/master/anypoint-b2b/v/latest/ftps-and-edi-x12-purchase-order-walkthrough.adoc)
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) PHP examples of writing EDI from scratch.
-
+- [SDK](https://github.com/EdiFabric/Sdk) Dynamically read, manipulate and write EDI files. From EDIFabric. 
 
 PRs Welcome!
 
