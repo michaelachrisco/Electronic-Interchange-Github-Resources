@@ -21,7 +21,7 @@ Unofficial List of EDI Github Resources
 - [BizTalk](https://github.com/MicrosoftDocs/biztalk-docs) Microsoft Biztalk 
 - [MuleSoft](https://github.com/mulesoft/mulesoft-docs)
 - [EDI Editor](https://www.tallan.com/products/t-connect-edi-management/x12-studio-tool-box/) - EDI editor
-- [T-Connect EDI Management](https://www.tallan.com/products/t-connect-edi-management/t-connect-edi-management-suite/)
+- [T-Connect EDI Management](https://www.tallan.com/products/t-connect-edi-management/t-connect-edi-management-suite/) Connect is a HIPAA-focused EDI management platform designed to accelerate claim and payment processing, improve first-pass adjudication rates and provide end-to-end visibility into the lifecycle of your data.
 
 ## Examples
 - [Mulesoft purchase order walkthrough](https://github.com/mulesoft/mulesoft-docs/blob/master/anypoint-b2b/v/latest/ftps-and-edi-x12-purchase-order-walkthrough.adoc)
