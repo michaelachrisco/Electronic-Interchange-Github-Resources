@@ -1,5 +1,5 @@
 # Electronic-Interchange-Github-Resources
-Unofficial List of EDI Github Resources
+List of EDI Github Resources. PRs Welcome!
 
 ## Syntax Highlighters
 
@@ -30,6 +30,4 @@ Unofficial List of EDI Github Resources
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
 - [SDK](https://github.com/EdiFabric/Sdk/tree/master/Hipaa/Rules) - C# Examples of Benefit Enrollment (834) and Claim Payments (837). 
 - [EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
-
-PRs Welcome!
 
