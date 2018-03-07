@@ -12,6 +12,7 @@ Unofficial List of EDI Github Resources
 - [EdiEngine](https://github.com/olmelabs/EdiEngine) Simple .NET EDI Reader, Writer and Validator. Read, Write and Validate X12 EDI files with simple EDI Parser written on C#. 
 - [EDI.Net](https://github.com/indice-co/EDI.Net) EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
 - [edifact](https://github.com/php-edifact/edifact) - (PHP) Tools to process EDI messages in UN/EDIFACT format
+- [EdiWeave](https://github.com/Silvenga/EdiWeave) - Open Source Hard-Fork of EdiFabric 
 - [mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations http://www.moqui.org/mantle.html
 - [pyx12](https://github.com/azoner/pyx12) - (Python) HIPAA X12 document validator and converter
 - [StupidEdi](https://github.com/irobayna/stupidedi) Ruby API for parsing and generating ASC X12 EDI transactions.
