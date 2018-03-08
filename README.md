@@ -17,6 +17,7 @@ List of EDI Github Resources. PRs Welcome!
 - [mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations http://www.moqui.org/mantle.html
 - [pyx12](https://github.com/azoner/pyx12) - (Python) HIPAA X12 document validator and converter
 - [StupidEdi](https://github.com/irobayna/stupidedi) - Ruby API for parsing and generating ASC X12 EDI transactions.
+- [x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) - Generates test patient data in HIPAA X12 format
 - [x12-parser](https://github.com/imsweb/x12-parser) - A Java parser for ANSI ASC X12 documents.
 
 ## Systems or Paid Services
