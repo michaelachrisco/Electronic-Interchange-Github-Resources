@@ -15,6 +15,7 @@ List of EDI Github Resources. PRs Welcome!
 - [edicat](https://github.com/notpeter/edicat) - Print and concatenate X12 and Edifact EDI
 - [edifact](https://github.com/php-edifact/edifact) - (PHP) Tools to process EDI messages in UN/EDIFACT format
 - [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) - (Javascript) Javascript stream parser for UN/EDIFACT documents. 
+- [ediot](https://github.com/ConsultingMD/ediot) - (Ruby) Electronic Data Interexchange Open Transformer (transforms EDI-834 into CSV)
 - [EdiWeave](https://github.com/Silvenga/EdiWeave) - Open Source Hard-Fork of EdiFabric 
 - [mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations http://www.moqui.org/mantle.html
 - [pyx12](https://github.com/azoner/pyx12) - (Python) HIPAA X12 document validator and converter
