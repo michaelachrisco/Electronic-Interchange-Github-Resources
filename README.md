@@ -7,6 +7,7 @@ List of EDI Github Resources. PRs Welcome!
 - [Vim](https://github.com/vim-scripts/x12-syntax) - A simple syntax highlighter for EDI X12 files. Currently only Healthcare 270/271s are tested.
 - [Visual Studio Code](https://github.com/Silvenga/vscode-edi-x12-support) - A Visual Studio Code extension aimed at providing basic support for the EDI format.
 - [Notepad++](https://gist.github.com/bhattisatish/6b5f5c90443a64cef192) - A user-defined language file for highlighting EDI X12.
+- [X12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
 
 ## Libraries
 - [Apache NiFi](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
