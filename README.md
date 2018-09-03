@@ -23,6 +23,8 @@ List of EDI Github Resources. PRs Welcome!
 - [EdiWeave](https://github.com/Silvenga/EdiWeave) - Open Source Hard-Fork of EdiFabric 
 ### PHP
 - [edifact](https://github.com/php-edifact/edifact) - (PHP) Tools to process EDI messages in UN/EDIFACT format
+- [edifact-generator](https://github.com/php-edifact/edifact-generator) - Library to create UN/EDIFACT messages
+- [edifact-mapping](https://github.com/php-edifact/edifact-mapping) - UN/EDIFACT mappings in XML, with a PHP provider
 ### Javascript
 - [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) - (Javascript) Javascript stream parser for UN/EDIFACT documents. 
 - [x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) - Generates test patient data in HIPAA X12 format
@@ -47,5 +49,6 @@ List of EDI Github Resources. PRs Welcome!
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
 - [SDK](https://github.com/EdiFabric/Sdk/tree/master/Hipaa/Rules) - C# Examples of Benefit Enrollment (834) and Claim Payments (837). 
 - [EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
+
 
 
