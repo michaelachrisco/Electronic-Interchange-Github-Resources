@@ -45,7 +45,7 @@ List of EDI Github Resources. PRs Welcome!
 - [SDK](https://github.com/EdiFabric/Sdk) - Dynamically read, manipulate and write EDI files. From EDIFabric.
 - [EDI Editor](https://www.tallan.com/products/t-connect-edi-management/x12-studio-tool-box/) - X12 EDI editor
 - [T-Connect](https://www.tallan.com/products/t-connect-edi-management/t-connect-edi-management-suite/) - T-Connect is a HIPAA-focused EDI management platform designed to accelerate claim and payment processing, improve first-pass adjudication rates and provide end-to-end visibility into the lifecycle of your data.
-- [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) Simple X12 data model with TSQL parsing procedures
+- [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) - Simple X12 data model with TSQL parsing procedures
 
 ## Examples
 - [Mulesoft examples](https://github.com/mulesoft/mulesoft-docs/blob/master/anypoint-b2b/v/latest/)
