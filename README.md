@@ -14,7 +14,7 @@ List of EDI Github Resources. PRs Welcome!
 ## Libraries
 
 ### Java
-- [mrcsparker/nifi-edireader-bundle(https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
+- [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 - [moqui/mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations http://www.moqui.org/mantle.html
 - [imsweb/x12-parser](https://github.com/imsweb/x12-parser) - A Java parser for ANSI ASC X12 documents.
 - [xiaoerge/X12Healthcare](https://github.com/xiaoerge/X12Healthcare) - ANSI ASC X12 implementation for healthcare
