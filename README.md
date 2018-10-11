@@ -4,6 +4,7 @@ List of EDI Github Resources. PRs Welcome!
 ## Syntax Highlighters
 
 - [michaelachrisco/sublime-834-syntax](https://github.com/michaelachrisco/sublime-834-syntax) - Sublime syntax highlighter for the EDI x12 834 file.
+- [amandagrice/sublime-x12-highlighting](https://github.com/amandagrice/sublime-x12-highlighting) - Adds syntax highlighting to Sublime for x12 files. Made especially for the healthcare EDI space. (837s, etc.)
 - [vim-scripts/x12-syntax](https://github.com/vim-scripts/x12-syntax) - A simple syntax highlighter for EDI X12 files. Currently only Healthcare 270/271s are tested.
 - [Silvenga/vscode-edi-x12-support](https://github.com/Silvenga/vscode-edi-x12-support) - A Visual Studio Code extension aimed at providing basic support for the EDI format.
 - [Notepad++](https://gist.github.com/bhattisatish/6b5f5c90443a64cef192) - A user-defined language file for highlighting EDI X12.
