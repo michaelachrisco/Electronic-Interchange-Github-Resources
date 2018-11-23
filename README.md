@@ -16,7 +16,7 @@ List of EDI Github Resources. PRs Welcome!
 
 ### Java
 - [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
-- [moqui/mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations http://www.moqui.org/mantle.html
+- [moqui/mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations
 - [imsweb/x12-parser](https://github.com/imsweb/x12-parser) - A Java parser for ANSI ASC X12 documents.
 - [xiaoerge/X12Healthcare](https://github.com/xiaoerge/X12Healthcare) - ANSI ASC X12 implementation for healthcare
 ### DotNet
@@ -50,7 +50,6 @@ List of EDI Github Resources. PRs Welcome!
 - [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) - Simple X12 data model with TSQL parsing procedures
 
 ## Examples
-- [Mulesoft examples](https://github.com/mulesoft/mulesoft-docs/blob/master/anypoint-b2b/v/latest/)
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
 - [Sdk](https://github.com/EdiFabric/Sdk/blob/master/EdiFabric.Sdk.Demo/Program.cs) - C# Demo using EdiFabric. 
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
