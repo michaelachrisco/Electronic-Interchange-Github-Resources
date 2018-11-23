@@ -15,6 +15,7 @@ List of EDI Github Resources. PRs Welcome!
 ## Libraries
 
 ### Java
+- [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) - Serializing EDI as JSON
 - [moqui/mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations
 - [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 - [imsweb/x12-parser](https://github.com/imsweb/x12-parser) - A Java parser for ANSI ASC X12 documents.
