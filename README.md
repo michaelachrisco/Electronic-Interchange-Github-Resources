@@ -26,6 +26,7 @@ List of EDI Github Resources. PRs Welcome!
 - [Silvenga/EdiWeave](https://github.com/Silvenga/EdiWeave) - Open Source Hard-Fork of EdiFabric
 ### Python
 - [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) - EDI message generator in Python. Creates & validates messages according to specific formats
+- [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) - A Python Library for parsing ANSI ASC X12 files.
 ### PHP
 - [php-edifact/edifact](https://github.com/php-edifact/edifact) - (PHP) Tools to process EDI messages in UN/EDIFACT format
 - [php-edifact/edifact-generator](https://github.com/php-edifact/edifact-generator) - Library to create UN/EDIFACT messages
