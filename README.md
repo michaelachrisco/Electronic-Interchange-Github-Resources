@@ -20,7 +20,7 @@ List of EDI Github Resources. PRs Welcome!
 - [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 - [imsweb/x12-parser](https://github.com/imsweb/x12-parser) - A Java parser for ANSI ASC X12 documents.
 - [xiaoerge/X12Healthcare](https://github.com/xiaoerge/X12Healthcare) - ANSI ASC X12 implementation for healthcare
-### DotNet
+### C#/DotNet
 - [olmelabs/EdiEngine](https://github.com/olmelabs/EdiEngine) - Simple .NET EDI Reader, Writer and Validator. Read, Write and Validate X12 EDI files with simple EDI Parser written on C#. 
 - [indice-co/EDI.Net](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
 - [Silvenga/EdiWeave](https://github.com/Silvenga/EdiWeave) - Open Source Hard-Fork of EdiFabric
