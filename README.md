@@ -35,7 +35,8 @@ List of EDI Github Resources. PRs Welcome!
 - [php-edifact/edifact-mapping](https://github.com/php-edifact/edifact-mapping) - UN/EDIFACT mappings in XML, with a PHP provider
 ### Javascript
 - [dlumpp/x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) - Generates test patient data in HIPAA X12 format
-- [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) - (Javascript) Javascript stream parser for UN/EDIFACT documents. 
+- [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) - (Javascript) Javascript stream parser for UN/EDIFACT documents.
+- [parcelLab/edi-iftmin](https://github.com/parcelLab/edi-iftmin) - Parsing EDI IFTMIN and IFTSTA messages properly. Yes, EDI. You're welcome.
 ### Ruby
 - [ConsultingMD/ediot](https://github.com/ConsultingMD/ediot) - (Ruby) Electronic Data Interexchange Open Transformer (transforms EDI-834 into CSV)
 - [irobayna/stupidedi](https://github.com/irobayna/stupidedi) - Ruby API for parsing and generating ASC X12 EDI transactions.
