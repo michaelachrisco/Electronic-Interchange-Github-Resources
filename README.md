@@ -24,6 +24,7 @@ List of EDI Github Resources. PRs Welcome!
 - [olmelabs/EdiEngine](https://github.com/olmelabs/EdiEngine) - Simple .NET EDI Reader, Writer and Validator. Read, Write and Validate X12 EDI files with simple EDI Parser written on C#. 
 - [indice-co/EDI.Net](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
 - [Silvenga/EdiWeave](https://github.com/Silvenga/EdiWeave) - Open Source Hard-Fork of EdiFabric
+- [MassTransit/Machete](https://github.com/MassTransit/Machete) - Cut through the Crap, with Machete, a text parser, object mapper, and query engine.
 ### Python
 - [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) - EDI message generator in Python. Creates & validates messages according to specific formats
 - [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) - A Python Library for parsing ANSI ASC X12 files.
