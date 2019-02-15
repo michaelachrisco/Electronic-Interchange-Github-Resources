@@ -53,7 +53,7 @@ List of EDI Github Resources. PRs Welcome!
 - [EdiFabric/Sdk](https://github.com/EdiFabric/Sdk) - Dynamically read, manipulate and write EDI files. From EDIFabric.
 - [EDI Editor](https://www.tallan.com/products/t-connect-edi-management/x12-studio-tool-box/) - X12 EDI editor
 - [MicrosoftDocs/biztalk-docs](https://github.com/MicrosoftDocs/biztalk-docs) - Microsoft Biztalk documentation
-- [mulesoft/mulesoft-docs](https://github.com/mulesoft/mulesoft-docs) - Main MuleSoft documentation repository
+- [Mulesoft](https://github.com/mulesoft) - Collection of Mulesoft Repositories.
 - [T-Connect](https://www.tallan.com/products/t-connect-edi-management/t-connect-edi-management-suite/) - T-Connect is a HIPAA-focused EDI management platform designed to accelerate claim and payment processing, improve first-pass adjudication rates and provide end-to-end visibility into the lifecycle of your data.
 - [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 
