@@ -47,6 +47,7 @@ List of EDI Github Resources. PRs Welcome!
 - [azoner/pyx12](https://github.com/azoner/pyx12) - (Python) HIPAA X12 document validator and converter
 - [lanceengland/EdiTools](https://github.com/lanceengland/EdiTools) - EdiTools is a repository of PowerShell scripts for parsing EDI X12 files.
 - [notpeter/edicat](https://github.com/notpeter/edicat) - Print and concatenate X12 and Edifact EDI
+- [clarkema/x12pp](https://github.com/clarkema/x12pp) - Fast cross-platform X12 pretty-printer in Rust
 
 
 ## Systems or Paid Services
