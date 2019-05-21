@@ -52,7 +52,7 @@ List of EDI Github Resources. PRs Welcome!
 
 ## Systems or Paid Services
 - [abhishek-ram/pyas2](https://github.com/abhishek-ram/pyas2) - A pythonic AS2 client and server
-- [bots-edi/bots](https://github.com/bots-edi/bots) - Bots EDI Translator
+- [bots-edi/bots](https://github.com/bots-edi) - Bots EDI Translator
 - [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) - Simple X12 data model with TSQL parsing procedures
 - [EdiFabric/Sdk](https://github.com/EdiFabric/Sdk) - Dynamically read, manipulate and write EDI files. From EDIFabric.
 - [EDI Editor](https://www.tallan.com/products/t-connect-edi-management/x12-studio-tool-box/) - X12 EDI editor
