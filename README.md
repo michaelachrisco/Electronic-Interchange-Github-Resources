@@ -1,17 +1,6 @@
 # Electronic-Interchange-Github-Resources
 List of EDI Github Resources. PRs Welcome!
 
-## Syntax Highlighters
-
-- [amandagrice/sublime-x12-highlighting](https://github.com/amandagrice/sublime-x12-highlighting) - Adds syntax highlighting to Sublime for x12 files. Made especially for the healthcare EDI space. (837s, etc.)
-- [michaelachrisco/sublime-834-syntax](https://github.com/michaelachrisco/sublime-834-syntax) - Sublime syntax highlighter for the EDI x12 834 file.
-- [Notepad++](https://gist.github.com/bhattisatish/6b5f5c90443a64cef192) - A user-defined language file for highlighting EDI X12.
-- [Silvenga/vscode-edi-x12-support](https://github.com/Silvenga/vscode-edi-x12-support) - A Visual Studio Code extension aimed at providing basic support for the EDI format.
-- [vim-scripts/x12-syntax](https://github.com/vim-scripts/x12-syntax) - A simple syntax highlighter for EDI X12 files. Currently only Healthcare 270/271s are tested.
-
-## Standalone editors
-- [RKDN/x12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
-
 ## Libraries
 
 ### Java
@@ -29,7 +18,7 @@ List of EDI Github Resources. PRs Welcome!
 ### Python
 - [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) - EDI message generator in Python. Creates & validates messages according to specific formats
 - [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) - A Python Library for parsing ANSI ASC X12 files.
-## Swift
+### Swift
 - [kuyawa/EdiMapper](https://github.com/kuyawa/EdiMapper) - Convert EDI Documents to XML
 ### PHP
 - [php-edifact/edifact](https://github.com/php-edifact/edifact) - (PHP) Tools to process EDI messages in UN/EDIFACT format
@@ -68,3 +57,16 @@ List of EDI Github Resources. PRs Welcome!
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
 - [Sdk](https://github.com/EdiFabric/Sdk/blob/master/EdiFabric.Sdk.Demo/Program.cs) - C# Demo using EdiFabric. 
 - [walkswithme/EDI-X12-ANSI-270](https://github.com/walkswithme/EDI-X12-ANSI-270) - PHP Library for creating EDI X12 ANSI 270 File 5010 Version
+
+
+
+## Syntax Highlighters
+
+- [amandagrice/sublime-x12-highlighting](https://github.com/amandagrice/sublime-x12-highlighting) - Adds syntax highlighting to Sublime for x12 files. Made especially for the healthcare EDI space. (837s, etc.)
+- [michaelachrisco/sublime-834-syntax](https://github.com/michaelachrisco/sublime-834-syntax) - Sublime syntax highlighter for the EDI x12 834 file.
+- [Notepad++](https://gist.github.com/bhattisatish/6b5f5c90443a64cef192) - A user-defined language file for highlighting EDI X12.
+- [Silvenga/vscode-edi-x12-support](https://github.com/Silvenga/vscode-edi-x12-support) - A Visual Studio Code extension aimed at providing basic support for the EDI format.
+- [vim-scripts/x12-syntax](https://github.com/vim-scripts/x12-syntax) - A simple syntax highlighter for EDI X12 files. Currently only Healthcare 270/271s are tested.
+
+## Standalone editors
+- [RKDN/x12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
