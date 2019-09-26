@@ -53,6 +53,7 @@ List of EDI Github Resources. PRs Welcome!
 - [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 - [EDIdEv](http://www.edidev.com) - The EDIdEv Framework EDI (FREDI) solution is comprised of an EDI tool and a customizable EDI application. 
 - [EdiFabric/EDI-API-SDKs](https://github.com/EdiFabric/EDI-API-SDKs) - Code in the language you know to programmatically manipulate EDI files.
+- [OCA/edi](https://github.com/OCA/edi) - EDI Modules for Ooda
 ## Examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
