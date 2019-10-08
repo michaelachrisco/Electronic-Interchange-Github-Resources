@@ -33,6 +33,8 @@ List of EDI Github Resources. PRs Welcome!
 ### Ruby
 - [ConsultingMD/ediot](https://github.com/ConsultingMD/ediot) - (Ruby) Electronic Data Interexchange Open Transformer (transforms EDI-834 into CSV)
 - [irobayna/stupidedi](https://github.com/irobayna/stupidedi) - Ruby API for parsing and generating ASC X12 EDI transactions.
+### Rust
+- [sezna/edi](https://github.com/sezna/edi) - Rust crate for parsing X12 EDI and acting on it. Supports serialization to a variety of formats including JSON.
 
 ## CLI utilities
 - [azoner/pyx12](https://github.com/azoner/pyx12) - (Python) HIPAA X12 document validator and converter
