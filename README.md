@@ -66,6 +66,7 @@ List of EDI Github Resources. PRs Welcome!
 
 
 ## Syntax Highlighters
+- [josesanchezcapo/sublime-x12-highlighting](https://github.com/josesanchezcapo/sublime-x12-highlighting) - https://github.com/josesanchezcapo/sublime-x12-highlighting
 - [michaelachrisco/sublime-834-syntax](https://github.com/michaelachrisco/sublime-834-syntax) - Sublime syntax highlighter for the EDI x12 834 file.
 - [clarkema/x12-mode](https://github.com/clarkema/x12-mode) - An Emacs major mode for X12 EDI files
 - [Notepad++](https://gist.github.com/bhattisatish/6b5f5c90443a64cef192) - A user-defined language file for highlighting EDI X12.
