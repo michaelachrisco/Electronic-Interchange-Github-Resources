@@ -19,6 +19,7 @@ List of EDI Github Resources. PRs Welcome!
 ### Python
 - [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) - EDI message generator in Python. Creates & validates messages according to specific formats
 - [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) - A Python Library for parsing ANSI ASC X12 files.
+- [greasysock/CahasEDI-Core](https://github.com/greasysock/CahasEDI-Core) - Server/Client to AS2 messaging server for managing EDI partnerships and interpreting messages. 
 ### Swift
 - [kuyawa/EdiMapper](https://github.com/kuyawa/EdiMapper) - Convert EDI Documents to XML
 ### PHP
@@ -34,6 +35,7 @@ List of EDI Github Resources. PRs Welcome!
 - [ConsultingMD/ediot](https://github.com/ConsultingMD/ediot) - (Ruby) Electronic Data Interexchange Open Transformer (transforms EDI-834 into CSV)
 - [irobayna/stupidedi](https://github.com/irobayna/stupidedi) - Ruby API for parsing and generating ASC X12 EDI transactions.
 - [rwjblue/X12](https://github.com/rwjblue/X12) - X12 Parser - a library to manipulate X12 structures using native Ruby syntax.
+- [greasysock/CahasEDI-Dashboard](https://github.com/greasysock/CahasEDI-Dashboard) - User interface for CahasEDI-Core built on rails.
 ### Rust
 - [sezna/edi](https://github.com/sezna/edi) - Rust crate for parsing X12 EDI and acting on it. Supports serialization to a variety of formats including JSON.
 
