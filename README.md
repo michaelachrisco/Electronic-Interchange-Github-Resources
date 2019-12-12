@@ -36,6 +36,7 @@ List of EDI Github Resources. PRs Welcome!
 - [irobayna/stupidedi](https://github.com/irobayna/stupidedi) - Ruby API for parsing and generating ASC X12 EDI transactions.
 - [rwjblue/X12](https://github.com/rwjblue/X12) - X12 Parser - a library to manipulate X12 structures using native Ruby syntax.
 - [greasysock/CahasEDI-Dashboard](https://github.com/greasysock/CahasEDI-Dashboard) - User interface for CahasEDI-Core built on rails.
+- [tcd/eddy](https://github.com/tcd/eddy) - 🧨 EDI toolkit (WIP)
 ### Rust
 - [sezna/edi](https://github.com/sezna/edi) - Rust crate for parsing X12 EDI and acting on it. Supports serialization to a variety of formats including JSON.
 
