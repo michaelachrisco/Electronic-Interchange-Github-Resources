@@ -9,7 +9,6 @@ List of EDI Github Resources. PRs Welcome!
 - [moqui/mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations
 - [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 - [imsweb/x12-parser](https://github.com/imsweb/x12-parser) - A Java parser for ANSI ASC X12 documents.
-- [xlate/staedi](https://github.com/xlate/staedi) - StAEDI - Streaming API for EDI 
 - [walmartlabs/gozer](https://github.com/walmartlabs/gozer) - The EDI X12 Standard provides a uniform way for companies to exchange information across different sectors.
 - [xiaoerge/X12Healthcare](https://github.com/xiaoerge/X12Healthcare) - ANSI ASC X12 implementation for healthcare
 - [xlate/staedi](https://github.com/xlate/staedi) - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
