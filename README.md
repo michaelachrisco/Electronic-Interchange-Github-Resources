@@ -12,6 +12,7 @@ List of EDI Github Resources. PRs Welcome!
 - [walmartlabs/gozer](https://github.com/walmartlabs/gozer) - The EDI X12 Standard provides a uniform way for companies to exchange information across different sectors.
 - [xiaoerge/X12Healthcare](https://github.com/xiaoerge/X12Healthcare) - ANSI ASC X12 implementation for healthcare
 - [xlate/staedi](https://github.com/xlate/staedi) - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
+
 ### C#/DotNet
 - [olmelabs/EdiEngine](https://github.com/olmelabs/EdiEngine) - Simple .NET EDI Reader, Writer and Validator. Read, Write and Validate X12 EDI files with simple EDI Parser written on C#. 
 - [indice-co/EDI.Net](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
@@ -61,6 +62,7 @@ List of EDI Github Resources. PRs Welcome!
 - [EDIdEv](http://www.edidev.com) - The EDIdEv Framework EDI (FREDI) solution is comprised of an EDI tool and a customizable EDI application. 
 - [EdiFabric/EDI-API-SDKs](https://github.com/EdiFabric/EDI-API-SDKs) - Code in the language you know to programmatically manipulate EDI files.
 - [OCA/edi](https://github.com/OCA/edi) - EDI Modules for Ooda
+- [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
 ## Examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
