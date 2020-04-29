@@ -20,6 +20,7 @@ List of EDI Github Resources. PRs Welcome!
 - [MassTransit/Machete](https://github.com/MassTransit/Machete) - Cut through the Crap, with Machete, a text parser, object mapper, and query engine.
 ### Python
 - [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) - EDI message generator in Python. Creates & validates messages according to specific formats
+- [pydifact](https://github.com/nerdocs/pydifact) - A python library for parsing EDIFACT messages
 - [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) - A Python Library for parsing ANSI ASC X12 files.
 - [greasysock/CahasEDI-Core](https://github.com/greasysock/CahasEDI-Core) - Server/Client to AS2 messaging server for managing EDI partnerships and interpreting messages. 
 ### Swift
