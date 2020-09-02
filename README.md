@@ -54,14 +54,15 @@ List of EDI Github Resources. PRs Welcome!
 - [abhishek-ram/pyas2](https://github.com/abhishek-ram/pyas2) - A pythonic AS2 client and server
 - [bots-edi/bots](https://github.com/bots-edi) - Bots EDI Translator
 - [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) - Simple X12 data model with TSQL parsing procedures
-- [EdiFabric/Sdk](https://github.com/EdiFabric/Sdk) - Dynamically read, manipulate and write EDI files. From EDIFabric.
+- [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) - X12 and HIPAA Examples for EdiFabric EDI Tools
+- [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools 
 - [EDI Editor](https://www.tallan.com/products/t-connect-edi-management/x12-studio-tool-box/) - X12 EDI editor
 - [MicrosoftDocs/biztalk-docs](https://github.com/MicrosoftDocs/biztalk-docs) - Microsoft Biztalk documentation
 - [Mulesoft](https://github.com/mulesoft) - Collection of Mulesoft Repositories.
 - [T-Connect](https://www.tallan.com/products/t-connect-edi-management/t-connect-edi-management-suite/) - T-Connect is a HIPAA-focused EDI management platform designed to accelerate claim and payment processing, improve first-pass adjudication rates and provide end-to-end visibility into the lifecycle of your data.
 - [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 - [EDIdEv](http://www.edidev.com) - The EDIdEv Framework EDI (FREDI) solution is comprised of an EDI tool and a customizable EDI application. 
-- [EdiFabric/EDI-API-SDKs](https://github.com/EdiFabric/EDI-API-SDKs) - Code in the language you know to programmatically manipulate EDI files.
+
 - [OCA/edi](https://github.com/OCA/edi) - EDI Modules for Ooda
 - [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
 ## Examples
