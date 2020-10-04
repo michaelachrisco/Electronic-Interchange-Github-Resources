@@ -66,6 +66,8 @@ List of EDI Github Resources. PRs Welcome!
 
 - [OCA/edi](https://github.com/OCA/edi) - EDI Modules for Ooda
 - [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
+- [adamkasztenny/edi-schemas](https://github.com/adamkasztenny/edi-schemas) - JSON schemas for X12 and EDIFACT.
+
 ## Examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
