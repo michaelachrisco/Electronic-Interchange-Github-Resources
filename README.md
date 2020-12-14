@@ -44,6 +44,12 @@ List of EDI Github Resources. PRs Welcome!
 ### Rust
 - [sezna/edi](https://github.com/sezna/edi) - Rust crate for parsing X12 EDI and acting on it. Supports serialization to a variety of formats including JSON.
 
+### Golang
+- [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser is a native Golang ETL parser that ingests input data of various
+formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired
+JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) and
+[EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) for more usage details.
+
 ## CLI utilities
 - [azoner/pyx12](https://github.com/azoner/pyx12) - (Python) HIPAA X12 document validator and converter
 - [lanceengland/EdiTools](https://github.com/lanceengland/EdiTools) - EdiTools is a repository of PowerShell scripts for parsing EDI X12 files.
