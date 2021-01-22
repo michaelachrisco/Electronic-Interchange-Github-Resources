@@ -24,6 +24,7 @@ List of EDI Github Resources. PRs Welcome!
 - [pydifact](https://github.com/nerdocs/pydifact) - A python library for parsing EDIFACT messages
 - [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) - A Python Library for parsing ANSI ASC X12 files.
 - [greasysock/CahasEDI-Core](https://github.com/greasysock/CahasEDI-Core) - Server/Client to AS2 messaging server for managing EDI partnerships and interpreting messages. 
+- [edi-835-parser](https://github.com/keironstoddart/edi-835-parser) - A simple EDI 835 file format parser.
 ### Swift
 - [kuyawa/EdiMapper](https://github.com/kuyawa/EdiMapper) - Convert EDI Documents to XML
 ### PHP
