@@ -21,10 +21,10 @@ List of EDI Github Resources. Pull Requests are Welcome!
 - [MassTransit/Machete](https://github.com/MassTransit/Machete) - Cut through the Crap, with Machete, a text parser, object mapper, and query engine.
 ### Python
 - [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) - EDI message generator in Python. Creates & validates messages according to specific formats
-- [pydifact](https://github.com/nerdocs/pydifact) - A python library for parsing EDIFACT messages
+- [nerdocs/pydifact](https://github.com/nerdocs/pydifact) - A python library for parsing EDIFACT messages
 - [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) - A Python Library for parsing ANSI ASC X12 files.
 - [greasysock/CahasEDI-Core](https://github.com/greasysock/CahasEDI-Core) - Server/Client to AS2 messaging server for managing EDI partnerships and interpreting messages. 
-- [edi-835-parser](https://github.com/keironstoddart/edi-835-parser) - A simple EDI 835 file format parser.
+- [keironstoddart/edi-835-parser](https://github.com/keironstoddart/edi-835-parser) - A simple EDI 835 file format parser.
 - [lab/parse-edi](https://hiplab.mc.vanderbilt.edu/git/lab/parse-edi) - Configurable electronic data interchange (EDI) parser for Healthcare (x12 837 and 835).
 ### Swift
 - [kuyawa/EdiMapper](https://github.com/kuyawa/EdiMapper) - Convert EDI Documents to XML
