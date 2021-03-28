@@ -1,5 +1,5 @@
 # Electronic-Interchange-Github-Resources
-List of EDI Github Resources. PRs Welcome!
+List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Libraries
 
