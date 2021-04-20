@@ -1,6 +1,8 @@
 # Electronic-Interchange-Github-Resources
 List of EDI Github Resources. Pull Requests are Welcome!
 
+https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/
+
 ## Libraries
 
 ### Java
