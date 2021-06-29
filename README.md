@@ -42,7 +42,6 @@ https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/
 ### Ruby
 - [ConsultingMD/ediot](https://github.com/ConsultingMD/ediot) - (Ruby) Electronic Data Interexchange Open Transformer (transforms EDI-834 into CSV)
 - [irobayna/stupidedi](https://github.com/irobayna/stupidedi) - Ruby API for parsing and generating ASC X12 EDI transactions.
-- [rwjblue/X12](https://github.com/rwjblue/X12) - X12 Parser - a library to manipulate X12 structures using native Ruby syntax.
 - [greasysock/CahasEDI-Dashboard](https://github.com/greasysock/CahasEDI-Dashboard) - User interface for CahasEDI-Core built on rails.
 - [tcd/eddy](https://github.com/tcd/eddy) - 🧨 EDI toolkit (WIP)
 ### Rust
