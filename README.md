@@ -71,7 +71,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [Mulesoft](https://github.com/mulesoft) - Collection of Mulesoft Repositories.
 - [T-Connect](https://www.tallan.com/products/t-connect-edi-management/t-connect-edi-management-suite/) - T-Connect is a HIPAA-focused EDI management platform designed to accelerate claim and payment processing, improve first-pass adjudication rates and provide end-to-end visibility into the lifecycle of your data.
 - [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
-- [EDIdEv](http://www.edidev.com) - The EDIdEv Framework EDI (FREDI) solution is comprised of an EDI tool and a customizable EDI application. 
+- [EDIdEv](https://www.edidev.com) - The EDIdEv Framework EDI (FREDI) solution is comprised of an EDI tool and a customizable EDI application. 
 
 - [OCA/edi](https://github.com/OCA/edi) - EDI Modules for Ooda
 - [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
