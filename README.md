@@ -13,7 +13,6 @@ https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/
 - [imsweb/x12-parser](https://github.com/imsweb/x12-parser) - A Java parser for ANSI ASC X12 documents.
 - [smooks/smooks](https://github.com/smooks/smooks) - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications 
 - [walmartlabs/gozer](https://github.com/walmartlabs/gozer) - The EDI X12 Standard provides a uniform way for companies to exchange information across different sectors.
-- [xiaoerge/X12Healthcare](https://github.com/xiaoerge/X12Healthcare) - ANSI ASC X12 implementation for healthcare
 - [xlate/staedi](https://github.com/xlate/staedi) - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 
 ### C#/DotNet
