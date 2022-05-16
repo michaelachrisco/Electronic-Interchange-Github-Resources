@@ -76,7 +76,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
 - [adamkasztenny/edi-schemas](https://github.com/adamkasztenny/edi-schemas) - JSON schemas for X12 and EDIFACT.
 
-- [EDI Core](https://www.stedi.com/docs/edi-core) - Pay-per-use EDI to JSON translator service with Mapping Guide Validation. 
+- [EDI Core](https://www.stedi.com/products/edi-core) - Pay-per-use EDI to JSON translator service with Mapping Guide Validation. 
     - [EDI Core Starter Pack](https://github.com/Stedi/api-starter-pack) - Github Starter-pack for EDI Core with Postman.
 
 ## Examples
@@ -86,8 +86,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [EdiFabric/EDI-Translator-Demo](https://github.com/EdiFabric/EDI-Translator-Demo) - EDI Translator for EDIFACT D.96A, X12 004010 and HIPAA 5010
 
 ## Public EDI References
-- [EDI Reference](https://edi.stedi.com/) - Free online viewer for all releases of X12 specifications
-- [EDI Mapping Guides](https://edi.stedi.com/mapping-guides) - Mapping Guides from Fortune 500 companies with free programmatic EDI validation to their guide.
+- [EDI Reference](https://www.stedi.com/edi) - Free online viewer for all releases of X12 specifications.
 
 
 ## Syntax Highlighters
@@ -99,6 +98,6 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [vim-scripts/x12-syntax](https://github.com/vim-scripts/x12-syntax) - A simple syntax highlighter for EDI X12 files. Currently only Healthcare 270/271s are tested.
 
 ## Free Online EDI editors
-- [EDI Inspector](https://edi.stedi.com/inspector) - A tool for breaking inspecting EDI files and getting a free JSON conversion
+- [EDI Inspector](https://www.stedi.com/edi/inspector) - A tool for inspecting EDI files and getting a free JSON conversion.
 ## Standalone editors
 - [RKDN/x12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
