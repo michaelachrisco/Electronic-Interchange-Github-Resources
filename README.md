@@ -85,8 +85,8 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [EdiFabric/EDI-Translator-Demo](https://github.com/EdiFabric/EDI-Translator-Demo) - EDI Translator for EDIFACT D.96A, X12 004010 and HIPAA 5010
 
 ## Public EDI References
-- [EDI Reference](https://www.stedi.com/edi) - Free online viewer for all releases of X12 specifications.
-
+- [X12 Reference](https://www.stedi.com/edi/x12) - Free online viewer for all releases of X12 specifications.
+- [EDIFACT Reference](https://www.stedi.com/edi/edifact) - Free online viewer for all releases of EDIFACT specifications.
 
 ## Syntax Highlighters
 - [josesanchezcapo/sublime-x12-highlighting](https://github.com/josesanchezcapo/sublime-x12-highlighting) - Adds syntax highlighting to Sublime for x12 files. Made especially for the healthcare EDI space. (837s, etc.)
