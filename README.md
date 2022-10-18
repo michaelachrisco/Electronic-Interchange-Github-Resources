@@ -76,7 +76,8 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [adamkasztenny/edi-schemas](https://github.com/adamkasztenny/edi-schemas) - JSON schemas for X12 and EDIFACT.
 
 - [EDI Translate](https://www.stedi.com/products/edi-translate) - Pay-per-use EDI to JSON translator service with mapping guide validation. 
-    - [Write EDI demo](https://github.com/Stedi-Demos/write-edi-demo) - Github repo for building end-to-end outbound EDI system.
+    - [Write EDI demo](https://github.com/Stedi-Demos/write-edi-demo) - Github repo for building an end-to-end outbound EDI system.
+    - [Read EDI demo](https://github.com/Stedi/awesome-edi/pull/4) - Github repo for building and end-to-end inbound EDI system.
 
 ## Examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
