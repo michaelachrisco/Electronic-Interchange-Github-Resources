@@ -104,4 +104,4 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [RKDN/x12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
 
 ## Implementation guide builders
-- (Stedi EDI Guides)[https://www.stedi.com/products/guides] - Define machine readable EDI specifications and publish documentation for trading partners.
+- [Stedi EDI Guides](https://www.stedi.com/products/guides) - Define machine readable EDI specifications and publish documentation for trading partners.
