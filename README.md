@@ -75,8 +75,9 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
 - [adamkasztenny/edi-schemas](https://github.com/adamkasztenny/edi-schemas) - JSON schemas for X12 and EDIFACT.
 
-- [EDI Core](https://www.stedi.com/products/edi-core) - Pay-per-use EDI to JSON translator service with Mapping Guide Validation. 
-    - [EDI Core Starter Pack](https://github.com/Stedi/api-starter-pack) - Github Starter-pack for EDI Core with Postman.
+- [EDI Translate](https://www.stedi.com/products/edi-translate) - Pay-per-use EDI to JSON translator service with mapping guide validation. 
+    - [Write EDI demo](https://github.com/Stedi-Demos/write-edi-demo) - Github repo for building an end-to-end outbound EDI system.
+    - [Read EDI demo](https://github.com/Stedi-Demos/read-edi-demo) - Github repo for building and end-to-end inbound EDI system.
 
 ## Examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
@@ -101,3 +102,6 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [EDI Inspector](https://www.stedi.com/edi/inspector) - A tool for inspecting EDI files and getting a free JSON conversion.
 ## Standalone editors
 - [RKDN/x12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
+
+## Implementation guide builders
+- [Stedi EDI Guides](https://www.stedi.com/products/guides) - Define machine readable EDI specifications and publish documentation for trading partners.
