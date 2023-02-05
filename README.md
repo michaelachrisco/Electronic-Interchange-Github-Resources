@@ -78,17 +78,17 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [adamkasztenny/edi-schemas](https://github.com/adamkasztenny/edi-schemas) - JSON schemas for X12 and EDIFACT.
 
 - [EDI Translate](https://www.stedi.com/products/edi-translate) - Pay-per-use EDI to JSON translator service with mapping guide validation. 
-    - [Write EDI demo](https://github.com/Stedi-Demos/write-edi-demo) - Github repo for building an end-to-end outbound EDI system.
-    - [Read EDI demo](https://github.com/Stedi-Demos/read-edi-demo) - Github repo for building and end-to-end inbound EDI system.
 
 ## Examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
 - [walkswithme/EDI-X12-ANSI-270](https://github.com/walkswithme/EDI-X12-ANSI-270) - PHP Library for creating EDI X12 ANSI 270 File 5010 Version
 - [EdiFabric/EDI-Translator-Demo](https://github.com/EdiFabric/EDI-Translator-Demo) - EDI Translator for EDIFACT D.96A, X12 004010 and HIPAA 5010
+- [EDI Bootstrap (Stedi)](https://github.com/Stedi-Demos/bootstrap) - open-source, end-to-end system to generate and parse X12 EDI from a JSON
 
 ## Public EDI References
 - [X12 Reference](https://www.stedi.com/edi/x12) - Free online viewer for all releases of X12 specifications.
+- [EDI Guide Catalog](https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
 - [EDIFACT Reference](https://www.stedi.com/edi/edifact) - Free online viewer for all releases of EDIFACT specifications.
 
 ## Syntax Highlighters
