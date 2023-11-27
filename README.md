@@ -70,11 +70,8 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [EDIdEv](https://www.edidev.com) - The EDIdEv Framework EDI (FREDI) solution is comprised of an EDI tool and a customizable EDI application. 
 - [Odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. 
 - [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration. 
-
 - [OCA/edi](https://github.com/OCA/edi) - EDI Modules for Ooda
 - [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
-- [adamkasztenny/edi-schemas](https://github.com/adamkasztenny/edi-schemas) - JSON schemas for X12 and EDIFACT.
-
 - [EDI Translate](https://www.stedi.com/products/edi-translate) - Pay-per-use EDI to JSON translator service with mapping guide validation. 
 
 ## Examples
