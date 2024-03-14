@@ -26,6 +26,7 @@ https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/
 - [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) - A Python Library for parsing ANSI ASC X12 files.
 - [greasysock/CahasEDI-Core](https://github.com/greasysock/CahasEDI-Core) - Server/Client to AS2 messaging server for managing EDI partnerships and interpreting messages. 
 - [keironstoddart/edi-835-parser](https://github.com/keironstoddart/edi-835-parser) - A simple EDI 835 file format parser.
+- [slott56/TigerShark](https://github.com/slott56/TigerShark) - X12 Message Processing.
 ### Swift
 - [kuyawa/EdiMapper](https://github.com/kuyawa/EdiMapper) - Convert EDI Documents to XML
 ### PHP
