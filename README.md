@@ -38,6 +38,7 @@ https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/
 - [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) - (Javascript) Javascript stream parser for UN/EDIFACT documents.
 - [parcelLab/edi-iftmin](https://github.com/parcelLab/edi-iftmin) - Parsing EDI IFTMIN and IFTSTA messages properly. Yes, EDI. You're welcome.
 - [tastypackets/x12-parser](https://github.com/tastypackets/x12-parser) - X12 parser implemented using the NodeJS Transform API. Tested with over 1M 835 records, but is designed to work with all modern X12 records.
+- [aaronhuggins/node-x12](https://github.com/aaronhuggins/node-x12) - ASC X12 parser, generator, query engine, and mapper; now with support for streams.
 ### Ruby
 - [ConsultingMD/ediot](https://github.com/ConsultingMD/ediot) - (Ruby) Electronic Data Interexchange Open Transformer (transforms EDI-834 into CSV)
 - [irobayna/stupidedi](https://github.com/irobayna/stupidedi) - Ruby API for parsing and generating ASC X12 EDI transactions.
