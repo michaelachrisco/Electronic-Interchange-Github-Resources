@@ -74,7 +74,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration. 
 - [OCA/edi](https://github.com/OCA/edi) - EDI Modules for Ooda
 - [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
-- [EDI Translate](https://www.stedi.com/products/edi-translate) - Pay-per-use EDI to JSON translator service with mapping guide validation. 
+- [EDI Platform](https://www.stedi.com/edi-platform) - Simplify your EDI. Onboard partners fast. Integrate once.
 
 ## Examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
@@ -102,6 +102,3 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [EDI Inspector](https://www.stedi.com/edi/inspector) - A tool for inspecting EDI files and getting a free JSON conversion.
 ## Standalone editors
 - [RKDN/x12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
-
-## Implementation guide builders
-- [Stedi EDI Guides](https://www.stedi.com/products/guides) - Define machine readable EDI specifications and publish documentation for trading partners.
