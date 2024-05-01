@@ -7,6 +7,7 @@ https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/
 
 ### Java
 - [apifocal/x12-parser](https://github.com/apifocal/x12-parser) - Java library for parsing and creating ASC X12 EDI transactions
+- [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) - This library provides the functionality required to process EDI files and implement EDI integrations.
 - [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) - Serializing EDI as JSON
 - [moqui/mantle-edi](https://github.com/moqui/mantle-edi) - Mantle EDI Integrations
 - [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
