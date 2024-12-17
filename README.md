@@ -53,6 +53,7 @@ https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/
 formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired
 JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) and
 [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) for more usage details.
+- [moov-io/x12](https://github.com/moov-io/x12) - ASC X12 standards reader/writer 
 
 ## CLI utilities
 - [azoner/pyx12](https://github.com/azoner/pyx12) - (Python) HIPAA X12 document validator and converter
