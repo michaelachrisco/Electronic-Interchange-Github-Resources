@@ -91,6 +91,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [X12 Reference](https://www.stedi.com/edi/x12) - Free online viewer for all releases of X12 specifications.
 - [EDI Guide Catalog](https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
 - [EDIFACT Reference](https://www.stedi.com/edi/edifact) - Free online viewer for all releases of EDIFACT specifications.
+- [Stedi/awesome-edi](https://github.com/Stedi/awesome-edi) - List by Stedi of related resources.
 
 ## Syntax Highlighters
 - [josesanchezcapo/sublime-x12-highlighting](https://github.com/josesanchezcapo/sublime-x12-highlighting) - Adds syntax highlighting to Sublime for x12 files. Made especially for the healthcare EDI space. (837s, etc.)
