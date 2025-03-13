@@ -68,7 +68,6 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) - Simple X12 data model with TSQL parsing procedures
 - [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) - X12 and HIPAA Examples for EdiFabric EDI Tools
 - [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
-- [EDIJunction](https://edi-junction.com) - EDIFACT & X12 json conversion API.
 - [MicrosoftDocs/biztalk-docs](https://github.com/MicrosoftDocs/biztalk-docs) - Microsoft Biztalk documentation
 - [Mulesoft](https://github.com/mulesoft) - Collection of Mulesoft Repositories.
 - [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
