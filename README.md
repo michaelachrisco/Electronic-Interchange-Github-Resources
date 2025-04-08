@@ -101,6 +101,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [vim-scripts/x12-syntax](https://github.com/vim-scripts/x12-syntax) - A simple syntax highlighter for EDI X12 files. Currently only Healthcare 270/271s are tested.
 - [DAXaholic/vscode-edifact](https://github.com/DAXaholic/vscode-edifact) - Visual Studio Code extension providing basic language support for EDIFACT files.
 - [hellooops/Edi Support](https://github.com/hellooops/vscode-edi-support) - Visual Studio Code extension providing language support for X12/HIPAA and EDIFACT
+- [kreddys/edi-lens](https://github.com/kreddys/edi-lens) - EDI Lens is a web-based developer tool designed to help view, parse, and understand the structure of X12 EDI Files
 
 ## Free Online EDI editors
 - [EDI Inspector](https://www.stedi.com/edi/inspector) - A tool for inspecting EDI files and getting a free JSON conversion.
