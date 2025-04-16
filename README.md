@@ -78,6 +78,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) - Java based EDI platform with example EDI solutions.
 - [EDI Platform](https://www.stedi.com/edi-platform) - Simplify your EDI. Onboard partners fast. Integrate once.
 - [smooks/smooks-edi-cartridge](https://github.com/smooks/smooks-edi-cartridge) - Smooks EDI & EDIFACT cartridges for reading as well as writing EDI.
+- [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) - A Free ERP and EDI solution for the manufacturing community.
 
 ## Examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
