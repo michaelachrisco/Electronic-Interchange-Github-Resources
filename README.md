@@ -81,6 +81,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) - A Free ERP and EDI solution for the manufacturing community.
 
 ## Examples
+- [Healthcare-Data-Insight/api-examples](https://github.com/Healthcare-Data-Insight/api-examples) - X12 EDI Converter API and Java parser usage examples
 - [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
 - [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) - PHP examples of writing EDI from scratch.
 - [walkswithme/EDI-X12-ANSI-270](https://github.com/walkswithme/EDI-X12-ANSI-270) - PHP Library for creating EDI X12 ANSI 270 File 5010 Version
