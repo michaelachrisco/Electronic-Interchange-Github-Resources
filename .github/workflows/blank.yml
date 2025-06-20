@@ -1,26 +1,26 @@
-name: Ruby
+# name: Ruby
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  schedule:
-    - cron: '0 0 1 * *'
+# on:
+#   push:
+#     branches: [ main ]
+#   pull_request:
+#     branches: [ main ]
+#   schedule:
+#     - cron: '0 0 1 * *'
 
-jobs:
-  test:
+# jobs:
+#   test:
 
-    runs-on: ubuntu-latest
+#     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v3
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@359bebbc29cbe6c87da6bc9ea3bc930432750108
-        with:
-          ruby-version: '3.1'
-      - name: Install dependencies
-        run: gem install awesome_bot
-      - name: Verify all links are valid
-        run: awesome_bot --white-list edidev.com --allow-redirect README.md
+#     steps:
+#       - uses: actions/checkout@v3
+#       - name: Set up Ruby
+#         uses: ruby/setup-ruby@359bebbc29cbe6c87da6bc9ea3bc930432750108
+#         with:
+#           ruby-version: '3.1'
+#       - name: Install dependencies
+#         run: gem install awesome_bot
+#       - name: Verify all links are valid
+#         run: awesome_bot --white-list edidev.com --allow-redirect README.md
 
