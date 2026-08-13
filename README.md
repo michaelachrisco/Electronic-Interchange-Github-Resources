@@ -111,3 +111,6 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [EDI Inspector](https://www.stedi.com/edi/inspector) - A tool for inspecting EDI files and getting a free JSON conversion.
 ## Standalone editors
 - [RKDN/x12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
+
+## AI created or used
+- [Tediware/tedicli](https://github.com/Tediware/tedicli) - Official command line interface (CLI) tool for Tediware
