@@ -41,6 +41,7 @@ https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/
 - [tastypackets/x12-parser](https://github.com/tastypackets/x12-parser) - X12 parser implemented using the NodeJS Transform API. Tested with over 1M 835 records, but is designed to work with all modern X12 records.
 - [aaronhuggins/node-x12](https://github.com/aaronhuggins/node-x12) - ASC X12 parser, generator, query engine, and mapper; now with support for streams.
 - [jinger89/era](https://github.com/jinger89/era) - Extremely basic X12 835 file parser
+- [cosyte/x12](https://github.com/cosyte/x12) - ASC X12 healthcare EDI parser, serializer and builder for Node.js and TypeScript. Covers the 005010 transaction sets adopted under HIPAA and keeps every amount in exact decimal arithmetic.
 
 ### Ruby
 - [ConsultingMD/ediot](https://github.com/ConsultingMD/ediot) - (Ruby) Electronic Data Interexchange Open Transformer (transforms EDI-834 into CSV)
