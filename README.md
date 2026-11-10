@@ -59,6 +59,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 
 ## CLI utilities
 - [azoner/pyx12](https://github.com/azoner/pyx12) - (Python) HIPAA X12 document validator and converter
+- [Orca-KK/EDI-Integrity-Toolkit](https://github.com/Orca-KK/EDI-Integrity-Toolkit) - (Python) Checks X12 850/855/856/810/997 traffic for fraud and integrity problems (changed remit-to, duplicate invoices, diverted shipments), decodes 997 errors and measures acknowledgment lag.
 - [lanceengland/EdiTools](https://github.com/lanceengland/EdiTools) - EdiTools is a repository of PowerShell scripts for parsing EDI X12 files.
 - [notpeter/edicat](https://github.com/notpeter/edicat) - Print and concatenate X12 and Edifact EDI
 - [clarkema/x12pp](https://github.com/clarkema/x12pp) - Fast cross-platform X12 pretty-printer in Rust
