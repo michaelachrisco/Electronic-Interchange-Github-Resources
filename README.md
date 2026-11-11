@@ -90,6 +90,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [walkswithme/EDI-X12-ANSI-270](https://github.com/walkswithme/EDI-X12-ANSI-270) - PHP Library for creating EDI X12 ANSI 270 File 5010 Version
 - [EdiFabric/EDI-Translator-Demo](https://github.com/EdiFabric/EDI-Translator-Demo) - EDI Translator for EDIFACT D.96A, X12 004010 and HIPAA 5010
 - [EDI Bootstrap (Stedi)](https://github.com/Stedi-Demos/bootstrap) - open-source, end-to-end system to generate and parse X12 EDI from a JSON
+- [laozhang713/ansi-x12-edi-sample-files](https://github.com/laozhang713/ansi-x12-edi-sample-files) - Retail and supply chain ANSI X12 EDI sample files (850, 855, 856, 810, 820, 824, 846, 997) for Walmart, Target, Amazon Vendor, Home Depot, and Costco.
 
 ## Public EDI References
 - [X12 Reference](https://www.stedi.com/edi/x12) - Free online viewer for all releases of X12 specifications.
@@ -110,6 +111,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 
 ## Free Online EDI editors
 - [EDI Inspector](https://www.stedi.com/edi/inspector) - A tool for inspecting EDI files and getting a free JSON conversion.
+- [EDIParse](https://ediparse.com/tools/edi-viewer-inspector) - Client-side ANSI X12 EDI viewer, compliance validator, CSV/QuickBooks converter, and GS1-128 label generator.
 ## Standalone editors
 - [RKDN/x12Tool](https://github.com/RKDN/x12Tool) - A tool for reading and modifying x12/EDI files.
 
