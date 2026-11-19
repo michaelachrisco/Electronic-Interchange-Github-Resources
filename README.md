@@ -64,6 +64,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [lanceengland/EdiTools](https://github.com/lanceengland/EdiTools) - EdiTools is a repository of PowerShell scripts for parsing EDI X12 files.
 - [notpeter/edicat](https://github.com/notpeter/edicat) - Print and concatenate X12 and Edifact EDI
 - [clarkema/x12pp](https://github.com/clarkema/x12pp) - Fast cross-platform X12 pretty-printer in Rust
+- [datawharf-tools/x12diff](https://github.com/datawharf-tools/x12diff) - (Kotlin/JVM) Offline CLI for healthcare X12: 834 member diff, 835 remittance to CSV, 837-to-835 reconciliation and 999/277CA rejection tracing
 
 
 ## Systems or Paid Services
